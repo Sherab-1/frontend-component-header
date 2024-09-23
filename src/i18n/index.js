@@ -6,6 +6,7 @@ import idMessages from './messages/id.json';
 import plMessages from './messages/pl.json';
 import ruMessages from './messages/ru.json';
 import thMessages from './messages/th.json';
+import boMessages from './messages/bo.json';
 import ukMessages from './messages/uk.json';
 
 // no need to import en messages-- they are in the defaultMessage field
@@ -26,6 +27,7 @@ const messages = {
   uk: ukMessages,
   'es-419': es419Messages,
   fr: frMessages,
+  bo: boMessages,
   'zh-cn': zhcnMessages,
   'ko-kr': kokrMessages,
   'pt-br': ptbrMessages,
